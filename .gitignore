@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+
+__pycache__/
+*.py[cod]
+*.so
+build/
+
+gifs/
+test.py
+my_dict.txt
+words_alpha.txt
+
+.vscode/
+.idea/
+.DS_Store
